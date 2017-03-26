@@ -1,0 +1,44 @@
+﻿<div class="myPanelStyle">
+    
+    <div ng-show="$ctrl.iselected({checkTab: 1})">
+        <h3 style="background-color: oldlace;color: cornflowerblue;">Description</h3>
+        <p style="background-color: floralwhite; font-style: initial;  text-transform: initial;"><strong style="background-color: floralwhite;">{{$ctrl.product.description}}</strong></p>
+    </div>
+
+    <div ng-show="$ctrl.iselected({checkTab: 2})">
+        <h3 style="background-color: oldlace;color: cornflowerblue;">Stars</h3>
+
+        <form name="starForm" ng-controller="StarController as starCtrl" ng-submit="starCtrl.addStar($ctrl.product)">
+            <blockquote>
+                <b><strong>{{starCtrl.star.point}}Stars</strong></b>
+                {{starCtrl.star.body}}
+                <div class="clearfix" ng-bind="starCtrl.star.author"> </div>
+            </blockquote>
+
+            <h4><strong style="color: gray;">Submit a Stars</strong></h4>
+            <fieldset class="form-group" style="background-color: darkgray;">
+                <select ng-model="starCtrl.star.point" class="form-control" ng-options="stars for stars in [5,4,3,2,1]" title="Stars" style="color: cornflowerblue;background-color: cornsilk;">
+                    <option value="">Rate the Product</option>
+                </select>
+            </fieldset>
+            <fieldset class="form-group" style="background-color: coral;">
+                <textarea ng-model="starCtrl.star.body" class="form-control" placeholder="Write a short review of the product..." title="Review"></textarea>
+            </fieldset>
+            <fieldset class="form-group" style="background-color: gray;">
+                <input ng-model="starCtrl.star.author" type="email" class="form-control" placeholder="xxx@example.com" title="Email" />
+            </fieldset>
+            <fieldset class="form-group" style="background-color: coral;">
+                <input type="submit" class="btn sub star" value="Submit Review" style="color: cornflowerblue;" />
+            </fieldset>
+        </form>
+
+    </div>
+
+    <div ng-show="$ctrl.iselected({checkTab: 3})">
+        <h3 style="background-color: oldlace;color: cornflowerblue;">Reviews</h3>
+        <div>
+            <img ng-src="{{$ctrl.product.reviews}}" style="width:100%;height:100%;" />
+        </div>
+    </div>
+</div>
+

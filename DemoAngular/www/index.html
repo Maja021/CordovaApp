@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link href="css/myButton.css" rel="stylesheet" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script type="text/javascript" src="scripts/angular.js"></script>
+    <script type="text/javascript" src="scripts/jquery-3.1.1.js"></script>
+    <!--<script type="text/javascript" src="scripts/angular.min.js"></script>-->
+    <script type="text/javascript" src="scripts/bootstrap.js"></script>
+    <!--<script type="text/javascript" src="scripts/bootstrap.min.js"></script>-->
+    <script type="text/javascript" src="scripts/platformOverrides.js"></script>
+
+    <script type="text/javascript" src="app.store.js"></script>
+    <script type="text/javascript" src="mobs.js"></script>
+
+    <script type="text/javascript" src="controllers/storeController.js"></script>
+    <script type="text/javascript" src="controllers/starController.js"></script>
+
+    <script type="text/javascript" src="components//myButtonComponents.js"></script>
+    <script type="text/javascript" src="components//myPanelComponent.js"></script>
+
+</head>
+
+<body ng-app="store" style="background-size: initial;">
+
+    <div data-role="page" id="page" style="background-color: gray; padding: 5px;">
+        <div data-role="header" class="wel">
+            <h1 style="text-align:center; background-color:inherit;">
+                <strong style="color: ivory;">Welcome To mobile store</strong>
+            </h1>
+        </div>
+        <div class="buttonfs" style="background-color: oldlace;"> <a href="page.html">Choose a color</a> </div>
+    </div>
+
+
+
+    <div data-role="main" class="ui-content">
+        <div class="titleapp" style="color: dimgray;">
+            <div style="font-size: x-large; text-align:center; background-color: lightgray;">Product catalog</div>
+        </div>
+
+        <div ng-controller="storeController as ctrl" ng-cloak>
+            <div ng-if="ctrl.products">
+                <div ng-repeat="product in ctrl.products | orderBy:'-price'">
+                    <div class="name" style="color: cornflowerblue;">
+                        <h1 style="background-color: lavender; margin: 8px;">
+                            {{product.name}}
+                            <em class="pul-right">{{product.price | currency}}</em>
+                        </h1>
+                    </div>
+
+                    <!--<div class="nav nav-pills myButtonStyle">-->
+                        <my-button iselected="ctrl.isSelected(checkTab)" setpanel="ctrl.selectTab(setTab)"> </my-button>
+                        <!--<my-button iselected="ctrl.isSelected(1);" setpanel="ctrl.selectTab(1);" name="Description"></my-button>
+                        <my-button iselected="ctrl.isSelected(2);" setpanel="ctrl.selectTab(2);" name="Specification"></my-button>
+                        <my-button iselected="ctrl.isSelected(3);" setpanel="ctrl.selectTab(3);" name="Reviews"></my-button>-->
+                    <!--</div>-->
+
+                    <my-panel iselected="ctrl.isSelected(checkTab)" product="product"> </my-panel>
+
+                  
+                    <div class="buttonsc">
+                        <button class="buttonsc" ng-click="product.canPurshase = ! product.canPurshase" ng-show="product.canPurshase">Add to Cart</button>
+                        <div class="buttonsc" ng-class="{ 'hidden': ! product.canPurshase}"></div>
+                    </div>
+
+                    <img class="images" ng-src="{{product.images[0].full}}" style="width:60%; height:60%;" />
+                    <img class="imstar" ng-src="{{product.sh}}" style="height:100%; width:100%; margin:auto; border:2px solid #fefefe; opacity:0.9;" />
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

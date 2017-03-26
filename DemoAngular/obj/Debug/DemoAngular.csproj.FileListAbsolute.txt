@@ -1,0 +1,66 @@
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\ApplicationInsights.config
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\roslyn\csc.exe
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\roslyn\vbc.exe
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\DemoAngular.dll.config
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\DemoAngular.dll
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\DemoAngular.pdb
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\Microsoft.AI.Web.dll
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\Microsoft.AI.Web.xml
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\obj\Debug\DemoAngular.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\obj\Debug\DemoAngular.dll
+C:\Users\Aleksandar\Desktop\Razno\FinalApp\DemoAngular\obj\Debug\DemoAngular.pdb
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\ApplicationInsights.config
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\roslyn\csc.exe
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\roslyn\vbc.exe
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\roslyn\VBCSCompiler.exe
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\DemoAngular.dll.config
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\DemoAngular.dll
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\DemoAngular.pdb
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\Microsoft.AI.Web.dll
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\Microsoft.AI.Web.xml
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\obj\Debug\DemoAngular.csprojResolveAssemblyReference.cache
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\obj\Debug\DemoAngular.dll
+C:\Users\MAJA\Downloads\FinalApp (Demo Angular)\FinalApp\DemoAngular\obj\Debug\DemoAngular.pdb
